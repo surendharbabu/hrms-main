@@ -1,0 +1,3 @@
+[submodule "projects/dashboard"]
+	path = projects/dashboard
+	url = https://github.com/surendharbabu/dashboard.git
