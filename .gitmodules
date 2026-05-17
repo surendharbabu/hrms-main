@@ -1,3 +1,6 @@
 [submodule "projects/dashboard"]
 	path = projects/dashboard
 	url = https://github.com/surendharbabu/dashboard.git
+[submodule "projects/shell"]
+	path = projects/shell
+	url = https://github.com/surendharbabu/shell.git
